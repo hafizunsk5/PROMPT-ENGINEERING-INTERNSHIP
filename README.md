@@ -1,4 +1,4 @@
-\# Prompt Engineering Internship
+# Prompt Engineering Internship
 
 
 
@@ -10,11 +10,11 @@ The tasks helped me learn how to write better prompts, create different types of
 
 
 
-\## Internship Tasks
+## Internship Tasks
 
 
 
-\### Task 01 – Writing Better Prompts
+### Task 01 - Writing Better Prompts
 
 
 
@@ -26,21 +26,21 @@ I compared the responses from vague and improved prompts and analyzed how specif
 
 
 
-\*\*Files:\*\*
+**Files:**
 
 
 
-\* \[SCT\_PE\_1.md](SCT\_PE\_1.md)
+- [SCT_PE_1.md](SCT_PE_1.md)
 
-\* \[SCT\_PE\_1.docx](SCT\_PE\_1.docx)
-
-
-
-\---
+- [SCT_PE_1.docx](SCT_PE_1.docx)
 
 
 
-\### Task 02 – Prompting for Creativity
+---
+
+
+
+### Task 02 - Prompting for Creativity
 
 
 
@@ -52,21 +52,21 @@ I tried a basic prompt and few-shot prompts with different tones, including a yo
 
 
 
-\*\*Files:\*\*
+**Files:**
 
 
 
-\* \[SCT\_PE\_2.md](SCT\_PE\_2.md)
+- [SCT_PE_2.md](SCT_PE_2.md)
 
-\* \[SCT\_PE\_2.docx](SCT\_PE\_2.docx)
-
-
-
-\---
+- [SCT_PE_2.docx](SCT_PE_2.docx)
 
 
 
-\### Task 03 – Prompting for Task Automation
+---
+
+
+
+### Task 03 - Prompting for Task Automation
 
 
 
@@ -78,21 +78,21 @@ I used examples and fixed output values for sentiment, category, priority, issue
 
 
 
-\*\*Files:\*\*
+**Files:**
 
 
 
-\* \[SCT\_PE\_3.md](SCT\_PE\_3.md)
+- [SCT_PE_3.md](SCT_PE_3.md)
 
-\* \[SCT\_PE\_3.docx](SCT\_PE\_3.docx)
-
-
-
-\---
+- [SCT_PE_3.docx](SCT_PE_3.docx)
 
 
 
-\### Task 04 – Simulating an Assistant
+---
+
+
+
+### Task 04 - Simulating an Assistant
 
 
 
@@ -104,47 +104,47 @@ The assistant asks questions one at a time, uses the candidate's previous answer
 
 
 
-\*\*Files:\*\*
+**Files:**
 
 
 
-\* \[SCT\_PE\_4.md](SCT\_PE\_4.md)
+- [SCT_PE_4.md](SCT_PE_4.md)
 
-\* \[SCT\_PE\_4.docx](SCT\_PE\_4.docx)
-
-
-
-\---
+- [SCT_PE_4.docx](SCT_PE_4.docx)
 
 
 
-\## Skills I Practiced
+---
 
 
 
-\* Prompt Engineering
-
-\* Prompt Improvement
-
-\* Few-Shot Prompting
-
-\* Creative Prompting
-
-\* Task Automation
-
-\* Structured JSON Output
-
-\* Prompt Testing
-
-\* AI Assistant Design
-
-\* Adaptive Questioning
-
-\* AI Response Evaluation
+## Skills I Practiced
 
 
 
-\## About This Repository
+- Prompt Engineering
+
+- Prompt Improvement
+
+- Few-Shot Prompting
+
+- Creative Prompting
+
+- Task Automation
+
+- Structured JSON Output
+
+- Prompt Testing
+
+- AI Assistant Design
+
+- Adaptive Questioning
+
+- AI Response Evaluation
+
+
+
+## About This Repository
 
 
 
@@ -153,6 +153,4 @@ This repository contains my completed internship tasks in both Markdown and Word
 
 
 Each task includes the prompts, outputs, comparisons, and/or improvements made during the activity.
-
-
 
